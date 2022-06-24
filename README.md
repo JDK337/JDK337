@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JDK337
-- 👀 I’m interested in Music, programing and computer games. 
-- 🌱 I’m currently learning JavaScript. 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 
 
 <!---
